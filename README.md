@@ -1,4 +1,4 @@
-# Code Documentation
+# ✓ Code Documentation
 
 This README.md file provides documentation for a set of code snippets. The code is divided into five exercises, each with its purpose and functionality.
 
